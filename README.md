@@ -1,1 +1,1 @@
-# MiniChatApplication-Golang-vue-js-socketio-
+# MiniChatApplication-Golang-vue-js-socketio
