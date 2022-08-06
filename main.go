@@ -59,7 +59,7 @@ func sendemail(tomail string, textfile string, c *gosocketio.Channel) {
 	server.Host = "smtp.gmail.com"
 	server.Port = 587
 	server.Username = "golangchatapplication@gmail.com"
-	server.Password = "golangchatapplication123"
+	server.Password = "***"
 	server.Encryption = mail.EncryptionTLS
 
 	smtpClient, err := server.Connect()
